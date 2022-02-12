@@ -1,6 +1,5 @@
 package org.intellidev.ispawners.objects;
 
-import com.gmail.filoghost.holographicdisplays.api.Hologram;
 import org.bukkit.Location;
 import org.bukkit.entity.EntityType;
 
