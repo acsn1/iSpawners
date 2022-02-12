@@ -1,4 +1,4 @@
-package org.intellidev.ispawners.objects;
+package ***
 
 import org.bukkit.Location;
 import org.bukkit.entity.EntityType;
